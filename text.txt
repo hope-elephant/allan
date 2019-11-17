@@ -1,8 +1,0 @@
-"a new text file, haha."
-
-ok?
-
-end?
-
-
-ok
